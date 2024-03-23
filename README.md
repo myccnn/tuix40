@@ -1,5 +1,5 @@
-## [Gitblog](https://yihong0618.github.io/gitblog/)
-My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) using issues and GitHub Actions (随意转载，无需署名)
+## 今天退休没
+My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://yihong0618.github.io/gitblog/))
 [RSS Feed](https://raw.githubusercontent.com/myccnn/tuix40/master/feed.xml)
 
 ## 最近更新
