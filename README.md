@@ -4,7 +4,7 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://yi
 
 ## 最近更新
 - [2024-03-26 金翼](https://github.com/myccnn/tuix40/issues/15)--2024-03-26
-- [GitHub长存（未完）](https://github.com/myccnn/tuix40/issues/14)--2024-03-25
+- [GitHub长存](https://github.com/myccnn/tuix40/issues/14)--2024-03-25
 - [2024-03-18 焚身以火](https://github.com/myccnn/tuix40/issues/13)--2024-03-24
 - [2024-03-13 法兰西的陷落](https://github.com/myccnn/tuix40/issues/12)--2024-03-24
 - [2024-03-04 平乐县志](https://github.com/myccnn/tuix40/issues/11)--2024-03-24
@@ -26,4 +26,4 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://yi
 </details>
 
 ## 我随意
-- [GitHub长存（未完）](https://github.com/myccnn/tuix40/issues/14)--2024-03-25
+- [GitHub长存](https://github.com/myccnn/tuix40/issues/14)--2024-03-25
