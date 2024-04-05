@@ -3,11 +3,11 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://yi
 [RSS Feed](https://raw.githubusercontent.com/myccnn/tuix40/master/feed.xml)
 
 ## 最近更新
+- [《首尔之春》](https://github.com/myccnn/tuix40/issues/17)--2024-04-05
 - [网飞版《三体》](https://github.com/myccnn/tuix40/issues/16)--2024-04-05
 - [2024-03-26 金翼](https://github.com/myccnn/tuix40/issues/15)--2024-03-26
 - [GitHub长存](https://github.com/myccnn/tuix40/issues/14)--2024-03-25
 - [2024-03-18 焚身以火](https://github.com/myccnn/tuix40/issues/13)--2024-03-24
-- [2024-03-13 法兰西的陷落](https://github.com/myccnn/tuix40/issues/12)--2024-03-24
 ## 书
 - [2024-03-26 金翼](https://github.com/myccnn/tuix40/issues/15)--2024-03-26
 - [2024-03-18 焚身以火](https://github.com/myccnn/tuix40/issues/13)--2024-03-24
@@ -26,6 +26,7 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://yi
 </details>
 
 ## 影
+- [《首尔之春》](https://github.com/myccnn/tuix40/issues/17)--2024-04-05
 - [网飞版《三体》](https://github.com/myccnn/tuix40/issues/16)--2024-04-05
 ## 我随意
 - [GitHub长存](https://github.com/myccnn/tuix40/issues/14)--2024-03-25
