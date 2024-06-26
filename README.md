@@ -3,11 +3,11 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://yi
 [RSS Feed](https://raw.githubusercontent.com/myccnn/tuix40/master/feed.xml)
 
 ## 最近更新
+- [2013-Sep-Dec](https://github.com/myccnn/tuix40/issues/24)--2024-06-26
 - [2024-06-20 人生复本](https://github.com/myccnn/tuix40/issues/23)--2024-06-20
 - [2024-06-19 我不做英雄](https://github.com/myccnn/tuix40/issues/22)--2024-06-19
 - [2024-06-11 魏玛德国](https://github.com/myccnn/tuix40/issues/21)--2024-06-13
 - [2024-05-24 文学之冬](https://github.com/myccnn/tuix40/issues/20)--2024-05-22
-- [2024-05-08 天朝的崩溃](https://github.com/myccnn/tuix40/issues/19)--2024-05-08
 ## 书
 - [2024-06-20 人生复本](https://github.com/myccnn/tuix40/issues/23)--2024-06-20
 - [2024-06-19 我不做英雄](https://github.com/myccnn/tuix40/issues/22)--2024-06-19
@@ -37,3 +37,5 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://yi
 ## 我随意
 - [GitHub长存](https://github.com/myccnn/tuix40/issues/14)--2024-03-25
 - [从hexo到github issue](https://github.com/myccnn/tuix40/issues/2)--2024-03-23
+## 俱往矣
+- [2013-Sep-Dec](https://github.com/myccnn/tuix40/issues/24)--2024-06-26
