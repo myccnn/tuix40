@@ -3,11 +3,11 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://yi
 [RSS Feed](https://raw.githubusercontent.com/myccnn/tuix40/master/feed.xml)
 
 ## 最近更新
+- [鸭绿江的救赎](https://github.com/myccnn/tuix40/issues/35)--2024-07-14
 - [2022-Jan-Nov](https://github.com/myccnn/tuix40/issues/34)--2024-07-14
 - [2021-Jan-Dec](https://github.com/myccnn/tuix40/issues/33)--2024-07-14
 - [2024-07-14 银元时代生活史](https://github.com/myccnn/tuix40/issues/32)--2024-07-14
 - [2020-Jan-Dec](https://github.com/myccnn/tuix40/issues/31)--2024-07-01
-- [2019-Jan-Dec](https://github.com/myccnn/tuix40/issues/30)--2024-07-01
 ## 书
 - [2024-07-14 银元时代生活史](https://github.com/myccnn/tuix40/issues/32)--2024-07-14
 - [2024-06-20 人生复本](https://github.com/myccnn/tuix40/issues/23)--2024-06-20
@@ -32,6 +32,8 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://yi
 - [2022-12-31 书单](https://github.com/myccnn/tuix40/issues/3)--2024-03-23
 </details>
 
+## 疯人院
+- [鸭绿江的救赎](https://github.com/myccnn/tuix40/issues/35)--2024-07-14
 ## 影
 - [《首尔之春》](https://github.com/myccnn/tuix40/issues/17)--2024-04-05
 - [网飞版《三体》](https://github.com/myccnn/tuix40/issues/16)--2024-04-05
