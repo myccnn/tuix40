@@ -3,19 +3,20 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://yi
 [RSS Feed](https://raw.githubusercontent.com/myccnn/tuix40/master/feed.xml)
 
 ## 最近更新
+- [2024-07-26 雍正王朝之大义决迷](https://github.com/myccnn/tuix40/issues/36)--2024-07-26
 - [鸭绿江的救赎](https://github.com/myccnn/tuix40/issues/35)--2024-07-14
 - [2022-Jan-Nov](https://github.com/myccnn/tuix40/issues/34)--2024-07-14
 - [2021-Jan-Dec](https://github.com/myccnn/tuix40/issues/33)--2024-07-14
 - [2024-07-14 银元时代生活史](https://github.com/myccnn/tuix40/issues/32)--2024-07-14
-- [2020-Jan-Dec](https://github.com/myccnn/tuix40/issues/31)--2024-07-01
 ## 书
+- [2024-07-26 雍正王朝之大义决迷](https://github.com/myccnn/tuix40/issues/36)--2024-07-26
 - [2024-07-14 银元时代生活史](https://github.com/myccnn/tuix40/issues/32)--2024-07-14
 - [2024-06-20 人生复本](https://github.com/myccnn/tuix40/issues/23)--2024-06-20
 - [2024-06-19 我不做英雄](https://github.com/myccnn/tuix40/issues/22)--2024-06-19
 - [2024-06-11 魏玛德国](https://github.com/myccnn/tuix40/issues/21)--2024-06-13
-- [2024-05-24 文学之冬](https://github.com/myccnn/tuix40/issues/20)--2024-05-22
 <details><summary>显示更多</summary>
 
+- [2024-05-24 文学之冬](https://github.com/myccnn/tuix40/issues/20)--2024-05-22
 - [2024-05-08 天朝的崩溃](https://github.com/myccnn/tuix40/issues/19)--2024-05-08
 - [2024-04-08 1903](https://github.com/myccnn/tuix40/issues/18)--2024-04-09
 - [2024-03-26 金翼](https://github.com/myccnn/tuix40/issues/15)--2024-03-26
