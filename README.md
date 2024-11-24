@@ -3,19 +3,20 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://yi
 [RSS Feed](https://raw.githubusercontent.com/myccnn/tuix40/master/feed.xml)
 
 ## 最近更新
+- [2024-11-22 国家为什么会失败](https://github.com/myccnn/tuix40/issues/42)--2024-11-24
 - [2024-10-22 素食者](https://github.com/myccnn/tuix40/issues/41)--2024-10-23
 - [2024-10-17 三国前夜](https://github.com/myccnn/tuix40/issues/40)--2024-10-19
 - [2024-09-13 The Catcher in the Rye](https://github.com/myccnn/tuix40/issues/39)--2024-09-13
 - [2024-08-31 娜斯佳的眼泪](https://github.com/myccnn/tuix40/issues/38)--2024-09-01
-- [2024-08-27 皇帝圆舞曲](https://github.com/myccnn/tuix40/issues/37)--2024-08-27
 ## 书
+- [2024-11-22 国家为什么会失败](https://github.com/myccnn/tuix40/issues/42)--2024-11-24
 - [2024-10-22 素食者](https://github.com/myccnn/tuix40/issues/41)--2024-10-23
 - [2024-10-17 三国前夜](https://github.com/myccnn/tuix40/issues/40)--2024-10-19
 - [2024-09-13 The Catcher in the Rye](https://github.com/myccnn/tuix40/issues/39)--2024-09-13
 - [2024-08-31 娜斯佳的眼泪](https://github.com/myccnn/tuix40/issues/38)--2024-09-01
-- [2024-08-27 皇帝圆舞曲](https://github.com/myccnn/tuix40/issues/37)--2024-08-27
 <details><summary>显示更多</summary>
 
+- [2024-08-27 皇帝圆舞曲](https://github.com/myccnn/tuix40/issues/37)--2024-08-27
 - [2024-07-26 雍正王朝之大义决迷](https://github.com/myccnn/tuix40/issues/36)--2024-07-26
 - [2024-07-14 银元时代生活史](https://github.com/myccnn/tuix40/issues/32)--2024-07-14
 - [2024-06-20 人生复本](https://github.com/myccnn/tuix40/issues/23)--2024-06-20
