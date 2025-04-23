@@ -224,17 +224,18 @@ def add_md_label(repo, md, me):
             if not user_issues:
                 print(f"标签 {label.name} 下无用户Issue，跳过")
                 continue
-            md_file.write(f"## {label.name}\n")
+            md.write(f"## {label.name}\n")
             user_issues_sorted = sorted(user_issues, key=lambda x: x.created_at, reverse=True)
             i = 0
             for issue in user_issues_sorted:
                 if i == ANCHOR_NUMBER:
-                    md_file.write("<details><summary>显示更多</summary>\n")
-                add_issue_info(issue, md_file)
+                    md.write("<details><summary>显示更多</summary>\n")
+                    md.write("\n")
+                add_issue_info(issue, md)
                 i += 1
             if i > ANCHOR_NUMBER:
-                md_file.write("</details>\n")
-            md_file.write("\n")
+                md.write("</details>\n")
+            md.write("\n")
 
 
 def get_to_generate_issues(repo, dir_name, issue_number=None):
