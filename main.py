@@ -116,7 +116,11 @@ def get_repo_labels(repo):
 
 
 def get_issues_from_label(repo, label):
-    return repo.get_issues(labels=(label,))
+    issues = []
+    for issue in repo.get_issues(labels=[label]):
+        if not issue.pull_request:
+            issues.append(issue)
+    return issues
 
 
 def add_issue_info(issue, md):
@@ -201,9 +205,6 @@ def add_md_header(md, repo_name):
 
 def add_md_label(repo, md, me):
     labels = get_repo_labels(repo)
-
-    # sort lables by description info if it exists, otherwise sort by name,
-    # for example, we can let the description start with a number (1#Java, 2#Docker, 3#K8s, etc.)
     labels = sorted(
         labels,
         key=lambda x: (
@@ -213,30 +214,27 @@ def add_md_label(repo, md, me):
             x.name,
         ),
     )
-
-    with open(md, "a+", encoding="utf-8") as md:
+    with open(md, "a+", encoding="utf-8") as md_file:
         for label in labels:
-            # we don't need add top label again
             if label.name in IGNORE_LABELS:
+                print(f"忽略标签: {label.name}")
                 continue
-
             issues = get_issues_from_label(repo, label)
-            if issues.totalCount:
-                md.write("## " + label.name + "\n")
-                issues = sorted(issues, key=lambda x: x.created_at, reverse=True)
+            user_issues = [issue for issue in issues if is_me(issue, me)]
+            if not user_issues:
+                print(f"标签 {label.name} 下无用户Issue，跳过")
+                continue
+            md_file.write(f"## {label.name}\n")
+            user_issues_sorted = sorted(user_issues, key=lambda x: x.created_at, reverse=True)
             i = 0
-            for issue in issues:
-                if not issue:
-                    continue
-                if is_me(issue, me):
-                    if i == ANCHOR_NUMBER:
-                        md.write("<details><summary>显示更多</summary>\n")
-                        md.write("\n")
-                    add_issue_info(issue, md)
-                    i += 1
+            for issue in user_issues_sorted:
+                if i == ANCHOR_NUMBER:
+                    md_file.write("<details><summary>显示更多</summary>\n")
+                add_issue_info(issue, md_file)
+                i += 1
             if i > ANCHOR_NUMBER:
-                md.write("</details>\n")
-                md.write("\n")
+                md_file.write("</details>\n")
+            md_file.write("\n")
 
 
 def get_to_generate_issues(repo, dir_name, issue_number=None):
