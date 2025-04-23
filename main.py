@@ -217,14 +217,12 @@ def add_md_label(repo, md, me):
     with open(md, "a+", encoding="utf-8") as md_file:
         for label in labels:
             if label.name in IGNORE_LABELS:
-                print(f"忽略标签: {label.name}")
                 continue
             issues = get_issues_from_label(repo, label)
             user_issues = [issue for issue in issues if is_me(issue, me)]
             if not user_issues:
-                print(f"标签 {label.name} 下无用户Issue，跳过")
                 continue
-            md.write(f"## {label.name}\n")
+            md.write("## {label.name}\n")
             user_issues_sorted = sorted(user_issues, key=lambda x: x.created_at, reverse=True)
             i = 0
             for issue in user_issues_sorted:
