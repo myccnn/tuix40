@@ -1,5 +1,5 @@
 ## 今天退休没
-My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://yihong0618.github.io/gitblog/))
+My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://github.com/yihong0618/gitblog))
 [RSS Feed](https://raw.githubusercontent.com/myccnn/tuix40/master/feed.xml)
 
 ## 最近更新
