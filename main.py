@@ -221,7 +221,8 @@ def add_md_label(repo, md, me):
                 continue
 
             issues = get_issues_from_label(repo, label)
-            if issues.totalCount:
+            user_issues = [issue for issue in issues if is_me(issue, me)]
+            if user_issues:
                 md.write("## " + label.name + "\n")
                 issues = sorted(issues, key=lambda x: x.created_at, reverse=True)
             i = 0
