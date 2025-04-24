@@ -10,7 +10,7 @@ from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
 MD_HEAD = """## 今天退休没
-My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://yihong0618.github.io/gitblog/))
+My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://github.com/yihong0618/gitblog))
 [RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
 """
 
