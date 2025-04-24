@@ -8,6 +8,7 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://yi
 - [2024-11-22 国家为什么会失败](https://github.com/myccnn/tuix40/issues/42)--2024-11-24
 - [2024-10-22 素食者](https://github.com/myccnn/tuix40/issues/41)--2024-10-23
 - [2024-10-17 三国前夜](https://github.com/myccnn/tuix40/issues/40)--2024-10-19
+## 书
 - [2025-04-19 Dear Leader](https://github.com/myccnn/tuix40/issues/44)--2025-04-19
 - [2025-03-18 The Rise and Fall of the EAST](https://github.com/myccnn/tuix40/issues/43)--2025-03-18
 - [2024-11-22 国家为什么会失败](https://github.com/myccnn/tuix40/issues/42)--2024-11-24
@@ -42,10 +43,13 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://yi
 
 ## 疯人院
 - [鸭绿江的救赎](https://github.com/myccnn/tuix40/issues/35)--2024-07-14
+## 影
 - [《首尔之春》](https://github.com/myccnn/tuix40/issues/17)--2024-04-05
 - [网飞版《三体》](https://github.com/myccnn/tuix40/issues/16)--2024-04-05
+## 我随意
 - [GitHub长存](https://github.com/myccnn/tuix40/issues/14)--2024-03-25
 - [从hexo到github issue](https://github.com/myccnn/tuix40/issues/2)--2024-03-23
+## 俱往矣
 - [2022-Jan-Nov](https://github.com/myccnn/tuix40/issues/34)--2024-07-14
 - [2021-Jan-Dec](https://github.com/myccnn/tuix40/issues/33)--2024-07-14
 - [2020-Jan-Dec](https://github.com/myccnn/tuix40/issues/31)--2024-07-01
