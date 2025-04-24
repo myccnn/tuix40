@@ -225,19 +225,18 @@ def add_md_label(repo, md, me):
                 continue
 
             issues = get_issues_from_label(repo, label)
-            if issues.totalCount:
+            user_issues = [issue for issue in issues if is_me(issue, me)]
+            if not user_issues:
+                continue
                 md.write("## " + label.name + "\n")
-                issues = sorted(issues, key=lambda x: x.created_at, reverse=True)
+            user_issues_sorted = sorted(user_issues, key=lambda x: x.created_at, reverse=True)
             i = 0
-            for issue in issues:
-                if not issue:
-                    continue
-                if is_me(issue, me):
-                    if i == ANCHOR_NUMBER:
-                        md.write("<details><summary>显示更多</summary>\n")
-                        md.write("\n")
+            for issue in user_issues_sorted:
+                if i == ANCHOR_NUMBER:
+                    md.write("<details><summary>显示更多</summary>\n")
+                    md.write("\n")
                     add_issue_info(issue, md)
-                    i += 1
+                i += 1
             if i > ANCHOR_NUMBER:
                 md.write("</details>\n")
                 md.write("\n")
