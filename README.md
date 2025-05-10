@@ -3,7 +3,7 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://gi
 [RSS Feed](https://raw.githubusercontent.com/myccnn/tuix40/master/feed.xml)
 
 ## 最近更新
-- [2025](https://github.com/myccnn/tuix40/issues/45)--2025-05-10
+- [2025-05-10 康熙的红票](https://github.com/myccnn/tuix40/issues/45)--2025-05-10
 - [2025-04-19 Dear Leader](https://github.com/myccnn/tuix40/issues/44)--2025-04-19
 - [2025-03-18 The Rise and Fall of the EAST](https://github.com/myccnn/tuix40/issues/43)--2025-03-18
 - [2024-11-22 国家为什么会失败](https://github.com/myccnn/tuix40/issues/42)--2024-11-24
