@@ -3,11 +3,11 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://gi
 [RSS Feed](https://raw.githubusercontent.com/myccnn/tuix40/master/feed.xml)
 
 ## 最近更新
+- [2025-05-18 《爱、死亡与机器人》第四季](https://github.com/myccnn/tuix40/issues/47)--2025-05-18
 - [2025-05-17 真希望我父母读过这本书](https://github.com/myccnn/tuix40/issues/46)--2025-05-18
 - [2025-05-09 康熙的红票](https://github.com/myccnn/tuix40/issues/45)--2025-05-10
 - [2025-04-19 Dear Leader](https://github.com/myccnn/tuix40/issues/44)--2025-04-19
 - [2025-03-18 The Rise and Fall of the EAST](https://github.com/myccnn/tuix40/issues/43)--2025-03-18
-- [2024-11-22 国家为什么会失败](https://github.com/myccnn/tuix40/issues/42)--2024-11-24
 ## 书
 - [2025-05-17 真希望我父母读过这本书](https://github.com/myccnn/tuix40/issues/46)--2025-05-18
 - [2025-05-09 康熙的红票](https://github.com/myccnn/tuix40/issues/45)--2025-05-10
@@ -46,6 +46,7 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://gi
 ## 疯人院
 - [鸭绿江的救赎](https://github.com/myccnn/tuix40/issues/35)--2024-07-14
 ## 影
+- [2025-05-18 《爱、死亡与机器人》第四季](https://github.com/myccnn/tuix40/issues/47)--2025-05-18
 - [《首尔之春》](https://github.com/myccnn/tuix40/issues/17)--2024-04-05
 - [网飞版《三体》](https://github.com/myccnn/tuix40/issues/16)--2024-04-05
 ## 我随意
