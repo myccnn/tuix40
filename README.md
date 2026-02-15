@@ -3,19 +3,20 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://gi
 [RSS Feed](https://raw.githubusercontent.com/myccnn/tuix40/master/feed.xml)
 
 ## 最近更新
+- [2026-02-01 国家的囚徒](https://github.com/myccnn/tuix40/issues/57)--2026-02-15
 - [2026-01-12 酒吧长谈](https://github.com/myccnn/tuix40/issues/56)--2026-02-15
 - [2025-12-04 红太阳是怎样升起的](https://github.com/myccnn/tuix40/issues/55)--2025-12-12
 - [2025-10-27 大变局](https://github.com/myccnn/tuix40/issues/54)--2025-10-29
 - [2025-09-05 麦苗青菜花黄](https://github.com/myccnn/tuix40/issues/53)--2025-09-07
-- [2025-08-07 罪与罚](https://github.com/myccnn/tuix40/issues/52)--2025-08-12
 ## 书
+- [2026-02-01 国家的囚徒](https://github.com/myccnn/tuix40/issues/57)--2026-02-15
 - [2026-01-12 酒吧长谈](https://github.com/myccnn/tuix40/issues/56)--2026-02-15
 - [2025-12-04 红太阳是怎样升起的](https://github.com/myccnn/tuix40/issues/55)--2025-12-12
 - [2025-10-27 大变局](https://github.com/myccnn/tuix40/issues/54)--2025-10-29
 - [2025-09-05 麦苗青菜花黄](https://github.com/myccnn/tuix40/issues/53)--2025-09-07
-- [2025-08-07 罪与罚](https://github.com/myccnn/tuix40/issues/52)--2025-08-12
 <details><summary>显示更多</summary>
 
+- [2025-08-07 罪与罚](https://github.com/myccnn/tuix40/issues/52)--2025-08-12
 - [2025-07-14 崖山](https://github.com/myccnn/tuix40/issues/51)--2025-08-12
 - [2025-06-25 大门口的陌生人](https://github.com/myccnn/tuix40/issues/50)--2025-07-13
 - [2025-06-13 施剑翘复仇案](https://github.com/myccnn/tuix40/issues/49)--2025-06-13
