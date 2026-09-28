@@ -3,11 +3,11 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://gi
 [RSS Feed](https://raw.githubusercontent.com/myccnn/tuix40/master/feed.xml)
 
 ## 最近更新
+- [2026-09-08 唯红花绽放](https://github.com/myccnn/tuix40/issues/65)--2026-09-27
 - [2026-08-28 自由的窄廊](https://github.com/myccnn/tuix40/issues/64)--2026-09-27
 - [2026-07-10 我们最幸福](https://github.com/myccnn/tuix40/issues/63)--2026-07-31
 - [2026-06-23 别江](https://github.com/myccnn/tuix40/issues/62)--2026-07-09
 - [2026-06-11 制度基因](https://github.com/myccnn/tuix40/issues/61)--2026-06-21
-- [2026-04-10 只是为了好玩](https://github.com/myccnn/tuix40/issues/60)--2026-04-11
 ## 书
 - [2026-08-28 自由的窄廊](https://github.com/myccnn/tuix40/issues/64)--2026-09-27
 - [2026-07-10 我们最幸福](https://github.com/myccnn/tuix40/issues/63)--2026-07-31
