@@ -200,44 +200,75 @@ def add_md_header(md, repo_name):
 
 
 def add_md_label(repo, md, me):
-    labels = get_repo_labels(repo)
+    """
+    Generate README sections from labels actually assigned to user's issues.
 
-    # sort lables by description info if it exists, otherwise sort by name,
-    # for example, we can let the description start with a number (1#Java, 2#Docker, 3#K8s, etc.)
-    labels = sorted(
-        labels,
-        key=lambda x: (
-            x.description is None,
-            x.description == "",
-            x.description,
-            x.name,
-        ),
-    )
+    This avoids relying on repo.get_issues(labels=...) for every label.
+    It also makes newly-created labels work correctly when they are added
+    to existing issues.
+    """
+    issues = [
+        issue
+        for issue in repo.get_issues(state="all")
+        if is_me(issue, me) and not issue.pull_request
+    ]
 
-    with open(md, "a+", encoding="utf-8") as md:
-        for label in labels:
-            # we don't need add top label again
-            if label.name in IGNORE_LABELS:
+    # Collect labels from the issues themselves.
+    label_issues = {}
+
+    for issue in issues:
+        for label in issue.labels:
+            label_name = label.name
+
+            if label_name in IGNORE_LABELS:
                 continue
 
-            issues = get_issues_from_label(repo, label)
-            user_issues = [issue for issue in issues if is_me(issue, me)]
-            if user_issues:
-                md.write("## " + label.name + "\n")
-                issues = sorted(issues, key=lambda x: x.created_at, reverse=True)
-            i = 0
-            for issue in issues:
-                if not issue:
-                    continue
-                if is_me(issue, me):
-                    if i == ANCHOR_NUMBER:
-                        md.write("<details><summary>显示更多</summary>\n")
-                        md.write("\n")
-                    add_issue_info(issue, md)
-                    i += 1
-            if i > ANCHOR_NUMBER:
+            label_issues.setdefault(label_name, []).append(issue)
+
+    # Get label metadata for sorting.
+    repo_labels = {
+        label.name: label
+        for label in get_repo_labels(repo)
+    }
+
+    def label_sort_key(label_name):
+        label = repo_labels.get(label_name)
+
+        if label is None:
+            return (True, True, "", label_name)
+
+        return (
+            label.description is None,
+            label.description == "",
+            label.description or "",
+            label.name,
+        )
+
+    label_names = sorted(label_issues, key=label_sort_key)
+
+    with open(md, "a+", encoding="utf-8") as md:
+        for label_name in label_names:
+            issues = sorted(
+                label_issues[label_name],
+                key=lambda x: x.created_at,
+                reverse=True,
+            )
+
+            if not issues:
+                continue
+
+            md.write("## " + label_name + "\n")
+
+            for i, issue in enumerate(issues):
+                if i == ANCHOR_NUMBER:
+                    md.write("<details><summary>显示更多</summary>\n\n")
+
+                add_issue_info(issue, md)
+
+            if len(issues) > ANCHOR_NUMBER:
                 md.write("</details>\n")
-                md.write("\n")
+
+            md.write("\n")
 
 
 def get_to_generate_issues(repo, dir_name, issue_number=None):
