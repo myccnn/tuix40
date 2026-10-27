@@ -10,12 +10,13 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://gi
 - [2026-06-23 别江](https://github.com/myccnn/tuix40/issues/62)--2026-07-09
 ## 书
 - [2026-09-27 吃佛](https://github.com/myccnn/tuix40/issues/66)--2026-09-28
+- [2026-09-08 唯红花绽放](https://github.com/myccnn/tuix40/issues/65)--2026-09-27
 - [2026-08-28 自由的窄廊](https://github.com/myccnn/tuix40/issues/64)--2026-09-27
 - [2026-07-10 我们最幸福](https://github.com/myccnn/tuix40/issues/63)--2026-07-31
 - [2026-06-23 别江](https://github.com/myccnn/tuix40/issues/62)--2026-07-09
-- [2026-06-11 制度基因](https://github.com/myccnn/tuix40/issues/61)--2026-06-21
 <details><summary>显示更多</summary>
 
+- [2026-06-11 制度基因](https://github.com/myccnn/tuix40/issues/61)--2026-06-21
 - [2026-04-10 只是为了好玩](https://github.com/myccnn/tuix40/issues/60)--2026-04-11
 - [2026-03-20 安史之乱：历史、宣传与神话](https://github.com/myccnn/tuix40/issues/58)--2026-03-29
 - [2026-02-01 国家的囚徒](https://github.com/myccnn/tuix40/issues/57)--2026-02-15
@@ -62,14 +63,17 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://gi
 
 ## 疯人院
 - [鸭绿江的救赎](https://github.com/myccnn/tuix40/issues/35)--2024-07-14
+
 ## 影
 - [2026-03-27 《太阳之子》](https://github.com/myccnn/tuix40/issues/59)--2026-03-29
 - [2025-05-18 《爱、死亡与机器人》第四季](https://github.com/myccnn/tuix40/issues/47)--2025-05-18
 - [《首尔之春》](https://github.com/myccnn/tuix40/issues/17)--2024-04-05
 - [网飞版《三体》](https://github.com/myccnn/tuix40/issues/16)--2024-04-05
+
 ## 我随意
 - [GitHub长存](https://github.com/myccnn/tuix40/issues/14)--2024-03-25
 - [从hexo到github issue](https://github.com/myccnn/tuix40/issues/2)--2024-03-23
+
 ## 俱往矣
 - [2022-Jan-Nov](https://github.com/myccnn/tuix40/issues/34)--2024-07-14
 - [2021-Jan-Dec](https://github.com/myccnn/tuix40/issues/33)--2024-07-14
