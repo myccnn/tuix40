@@ -3,11 +3,11 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://gi
 [RSS Feed](https://raw.githubusercontent.com/myccnn/tuix40/master/feed.xml)
 
 ## 最近更新
+- [Please, study history thoroughly](https://github.com/myccnn/tuix40/issues/67)--2026-10-27
 - [2026-09-27 吃佛](https://github.com/myccnn/tuix40/issues/66)--2026-09-28
 - [2026-09-08 唯红花绽放](https://github.com/myccnn/tuix40/issues/65)--2026-09-27
 - [2026-08-28 自由的窄廊](https://github.com/myccnn/tuix40/issues/64)--2026-09-27
 - [2026-07-10 我们最幸福](https://github.com/myccnn/tuix40/issues/63)--2026-07-31
-- [2026-06-23 别江](https://github.com/myccnn/tuix40/issues/62)--2026-07-09
 ## 书
 - [2026-09-27 吃佛](https://github.com/myccnn/tuix40/issues/66)--2026-09-28
 - [2026-09-08 唯红花绽放](https://github.com/myccnn/tuix40/issues/65)--2026-09-27
@@ -71,6 +71,7 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://gi
 - [网飞版《三体》](https://github.com/myccnn/tuix40/issues/16)--2024-04-05
 
 ## 我随意
+- [Please, study history thoroughly](https://github.com/myccnn/tuix40/issues/67)--2026-10-27
 - [GitHub长存](https://github.com/myccnn/tuix40/issues/14)--2024-03-25
 - [从hexo到github issue](https://github.com/myccnn/tuix40/issues/2)--2024-03-23
 
