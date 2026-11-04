@@ -3,11 +3,11 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://gi
 [RSS Feed](https://raw.githubusercontent.com/myccnn/tuix40/master/feed.xml)
 
 ## 最近更新
+- [测试一下Actions](https://github.com/myccnn/tuix40/issues/69)--2026-11-04
+- ["Originally, I just made this Mbappé meme to make my friends laugh."](https://github.com/myccnn/tuix40/issues/68)--2026-11-04
 - [Please, study history thoroughly](https://github.com/myccnn/tuix40/issues/67)--2026-10-27
 - [2026-09-27 吃佛](https://github.com/myccnn/tuix40/issues/66)--2026-09-28
 - [2026-09-08 唯红花绽放](https://github.com/myccnn/tuix40/issues/65)--2026-09-27
-- [2026-08-28 自由的窄廊](https://github.com/myccnn/tuix40/issues/64)--2026-09-27
-- [2026-07-10 我们最幸福](https://github.com/myccnn/tuix40/issues/63)--2026-07-31
 ## 书
 - [2026-09-27 吃佛](https://github.com/myccnn/tuix40/issues/66)--2026-09-28
 - [2026-09-08 唯红花绽放](https://github.com/myccnn/tuix40/issues/65)--2026-09-27
@@ -61,21 +61,7 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://gi
 - [2022-12-31 书单](https://github.com/myccnn/tuix40/issues/3)--2024-03-23
 </details>
 
-## 疯人院
-- [鸭绿江的救赎](https://github.com/myccnn/tuix40/issues/35)--2024-07-14
-
-## 影
-- [2026-03-27 《太阳之子》](https://github.com/myccnn/tuix40/issues/59)--2026-03-29
-- [2025-05-18 《爱、死亡与机器人》第四季](https://github.com/myccnn/tuix40/issues/47)--2025-05-18
-- [《首尔之春》](https://github.com/myccnn/tuix40/issues/17)--2024-04-05
-- [网飞版《三体》](https://github.com/myccnn/tuix40/issues/16)--2024-04-05
-
-## 我随意
-- [Please, study history thoroughly](https://github.com/myccnn/tuix40/issues/67)--2026-10-27
-- [GitHub长存](https://github.com/myccnn/tuix40/issues/14)--2024-03-25
-- [从hexo到github issue](https://github.com/myccnn/tuix40/issues/2)--2024-03-23
-
-## 俱往矣
+## 书hexo
 - [2022-Jan-Nov](https://github.com/myccnn/tuix40/issues/34)--2024-07-14
 - [2021-Jan-Dec](https://github.com/myccnn/tuix40/issues/33)--2024-07-14
 - [2020-Jan-Dec](https://github.com/myccnn/tuix40/issues/31)--2024-07-01
@@ -89,4 +75,20 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://gi
 - [2014-Jan-Dec](https://github.com/myccnn/tuix40/issues/25)--2024-06-26
 - [2013-Sep-Dec](https://github.com/myccnn/tuix40/issues/24)--2024-06-26
 </details>
+
+## 古拉格的思念
+- ["Originally, I just made this Mbappé meme to make my friends laugh."](https://github.com/myccnn/tuix40/issues/68)--2026-11-04
+- [Please, study history thoroughly](https://github.com/myccnn/tuix40/issues/67)--2026-10-27
+
+## 影
+- [2026-03-27 《太阳之子》](https://github.com/myccnn/tuix40/issues/59)--2026-03-29
+- [2025-05-18 《爱、死亡与机器人》第四季](https://github.com/myccnn/tuix40/issues/47)--2025-05-18
+- [《首尔之春》](https://github.com/myccnn/tuix40/issues/17)--2024-04-05
+- [网飞版《三体》](https://github.com/myccnn/tuix40/issues/16)--2024-04-05
+
+## 我随意
+- [测试一下Actions](https://github.com/myccnn/tuix40/issues/69)--2026-11-04
+- [鸭绿江的救赎](https://github.com/myccnn/tuix40/issues/35)--2024-07-14
+- [GitHub长存](https://github.com/myccnn/tuix40/issues/14)--2024-03-25
+- [从hexo到github issue](https://github.com/myccnn/tuix40/issues/2)--2024-03-23
 
