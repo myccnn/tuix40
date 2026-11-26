@@ -87,7 +87,7 @@ My personal blog using issues and GitHub Actions (Thanks to [Gitblog](https://gi
 - [《首尔之春》](https://github.com/myccnn/tuix40/issues/17)--2024-04-05
 - [网飞版《三体》](https://github.com/myccnn/tuix40/issues/16)--2024-04-05
 
-## 云在天边
+## 云在青天
 - [鸭绿江的救赎](https://github.com/myccnn/tuix40/issues/35)--2024-07-14
 - [GitHub长存](https://github.com/myccnn/tuix40/issues/14)--2024-03-25
 - [从hexo到github issue](https://github.com/myccnn/tuix40/issues/2)--2024-03-23
